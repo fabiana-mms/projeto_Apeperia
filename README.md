@@ -1,4 +1,4 @@
-# Projeto Bikcraft
+# Projeto Apeperia
 ![Apeperia](https://user-images.githubusercontent.com/75275451/174455659-03be3551-5c7c-4c05-9987-806764d7bcda.png)
 
 Projeto final do curso de Layouts Responsivos: trabalhando com layouts mobile.
